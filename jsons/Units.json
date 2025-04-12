@@ -2,7 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "da alienz",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
@@ -13,5 +13,14 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}
+	},
+	{
+		"name": "Burger",
+		"unitType": "Civilian",
+		"uniqueTo": "da alienz",
+		"replaces": "Settler",
+		"movement": 2,
+		"cost": 100,
+		"uniques": ["Founds a new city <by consuming this unit> <after turn number [200]>", "Unbuildable", "Cannot be purchased"]
+		
 ]
