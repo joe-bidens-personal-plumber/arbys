@@ -6,8 +6,8 @@
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "neep noop",
-		"startIntroPart2": "(For gameplay purposes, the 'burger' unit that has replaced your settler can only found a new city after turn 219. Chill out for a while; depending on your device, it might take a while to get there.)",
+		"startIntroPart1": "got that gleepy gloopy nepiter",
+		"startIntroPart2": "(woo woo)",
 		
 		"declaringWar": "aight we ball",
 		"attacked": "You want to play? Very funny!",
@@ -33,9 +33,6 @@
 		"uniques": [
 			"Reveals the entire map",
 			"Starts with [Future Tech]",
-			"[70] Free Technologies",
-			"Cannot build [Settler] units",
-			"[20] free [Mechanized Infantry] units appear <after turn number [222]>"
 		],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
