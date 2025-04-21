@@ -38,5 +38,35 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+		"name": "Aville",
+		"leaderName": "John Arbuckle",
+		"adjective": ["avillian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text.",
+		
+		"declaringWar": "skedaddle you skallywag",
+		"attacked": "y'all need to calm down",
+		"defeated": "Could'nt've you?",
+		"introduction": "",
+		
+		"neutralHello": "Howdy.",
+		"hateHello": "What is it now?",
+		
+		"tradeRequest": "",
+
+		"outerColor": [0,0,255],
+		"innerColor": [150,150,255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Redneck Engineering",
+		"uniques": [
+			"[+1 Science] from all [Production] buildings",
+			"[25]% of excess happiness converted to [Production]",
+		],
+		"cities": ["aville","Big Butt City","food city","old york","Libertybell","salad","chrrhrhrr","Crispy Point","boulangerie"]
 	}
 ]
