@@ -24,7 +24,7 @@
 		"cost": 275,
 		"requiredTech": "Rifling",
 		"requiredResource": "Uranium",
-		"promotions": ["Chu-Ko-Nu Ability","Hussar Ability"],
+		"promotions": ["Chu-Ko-Nu ability","Hussar ability"],
 		"attackSound": "phasers"
 	},	
 ]
