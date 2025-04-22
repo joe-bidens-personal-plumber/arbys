@@ -3,11 +3,10 @@
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "da alienz",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"cost": 160,
+		"happiness": 2,
+		"culture": 2,
+		"science": 5,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
@@ -27,7 +26,7 @@
 		"cost": 75,
 		"culture": 1,
 		"food": 1,
-		"gold": 1,
+		"maintenance": 1,
 		"requiredTech": "Trapping"
 	},
 	{
@@ -35,18 +34,20 @@
 		"cost": 200,
 		"science": 2,
 		"culture": 1,
+		"maintenance": 2,
 		"requiredTech": "Scientific Theory"
+		"uniques": [
+			"[+1 Gold] from every [arby's] <in this city>"
+		]
 	},
 	{
 		"name": "Arby's Headquarters",
 		"cost": 325,
-		"food": 2,
 		"culture": 2,
 		"gold": 2,
-		"faith": 2,
 		"isWonder": true,
 		"requiredTech": "Trapping",
-		"quote": "'we have the meats' - the arby's ad guy",
+		"quote": "'We have the meats.' - Arby",
 		"uniques": [
 			"[+1 Gold] from every [arby's] <in [all] cities>"
 		]
