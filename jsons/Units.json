@@ -13,5 +13,18 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}	
+	},	
+	{
+		"name": "uranium shooter guy",
+		"unitType": "Gunpowder",
+		"uniqueTo": "da alienz",
+		"replaces": "Rifleman",
+		"movement": 3,
+		"strength": 32,
+		"cost": 275,
+		"requiredTech": "Rifling",
+		"requiredResource": "Uranium",
+		"promotions": ["Chu-Ko-Nu Ability","Hussar Ability"],
+		"attackSound": "phasers"
+	},	
 ]
