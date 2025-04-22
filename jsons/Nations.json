@@ -24,8 +24,9 @@
 		"uniques": [
 			"[+1 Culture] from all [Science] buildings",
 			"Starts with [Future Tech]",
+			"Starts with [Atomic Theory]"
 		],
-		"cities": ["new neebly city", "eebly dibble", "narcoghcey", "cerbal car area", "t'ofney", "Harrow Point", "Watney", "erher", "bajibble", "jug", "ahare"]
+		"cities": ["new neebly city", "eebly dibble", "narcoghcey", "cerbal car area", "t'ofney", "Harrow Point", "Watney", "erher", "bajibble", "jug", "ahare", "big bub"]
 	},
 	{
 		"name": "aville",
