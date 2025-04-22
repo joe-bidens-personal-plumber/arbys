@@ -3,41 +3,29 @@
 		"name": "da alienz",
 		"leaderName": "lorde gleepen",
 		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Domination",
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "got that gleepy gloopy nepiter",
-		"startIntroPart2": "(woo woo)",
+		"startIntroPart1": "da alienz were once an advanced species on their homeworld, the envy of the other habitable planets in their star system. In the year 1982 A.G. (After Gaming) an asteroid nearly twice the mass of Chixiclub was found hurtling towards their planet. As a final resort, they sent out an interstellar craft to settle the nearby star system before it was too late. Indeed, this asteroid caused an extinction that wiped out all complex life on their planet.",
+		"startIntroPart2": "A new dawn has risen on the alien planet. Once more, da alienz have an opportunity to shine through the ages of history. lorde gleepen, will you sieze this opportunity? Will you build an empire that can stand the test of time?",
 		
 		"declaringWar": "aight we ball",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"attacked": "Oh ho, you want to pick a fight, huh?",
+		"defeated": "Our society has fallen once more. I suppose some things were never ment to be.",
 		"introduction": "(no-one will ever believe you)",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
 		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "ballin",
 		"uniques": [
-			"Reveals the entire map",
+			"[+1 Culture] from all [Science] buildings",
 			"Starts with [Future Tech]",
 		],
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["new neebly city", "eebly dibble", "narcoghcey", "cerbal car area", "t'ofney", "Harrow Point", "Watney", "erher", "bajibble", "jug", "ahare"]
 	},
 	{
 		"name": "aville",
@@ -52,7 +40,7 @@
 		"declaringWar": "skedaddle you skallywag",
 		"attacked": "y'all need to calm down",
 		"defeated": "Could'nt've you?",
-		"introduction": "",
+		"introduction": "greetings.",
 		
 		"neutralHello": "Howdy.",
 		"hateHello": "What is it now?",
