@@ -6,4 +6,5 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * [Human cloning ] (https://thenounproject.com/term/human-cloning/1581556/) by Gan Khoon Lay 
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
-* [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
+* [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem 
+* [plasma] (https://https://freesound.org/people/Tycoh/sounds/450768/) by Tycoh
