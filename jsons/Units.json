@@ -15,16 +15,16 @@
 		"attackSound": "phasers"
 	},	
 	{
-		"name": "uranium shooter guy",
+		"name": "Molten Slag Rifleman",
 		"unitType": "Gunpowder",
 		"uniqueTo": "da alienz",
 		"replaces": "Rifleman",
-		"movement": 3,
-		"strength": 32,
+		"movement": 2,
+		"strength": 40,
 		"cost": 275,
 		"requiredTech": "Rifling",
 		"requiredResource": "Uranium",
-		"promotions": ["Chu-Ko-Nu ability","Hussar ability"],
-		"attackSound": "phasers"
+		"promotions": ["Drill I"],
+		"attackSound": "plasma"
 	},	
 ]
