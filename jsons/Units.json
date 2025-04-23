@@ -23,7 +23,6 @@
 		"strength": 40,
 		"cost": 275,
 		"requiredTech": "Rifling",
-		"requiredResource": "Uranium",
 		"promotions": ["Drill I"],
 		"attackSound": "plasma"
 	},	
