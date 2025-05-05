@@ -38,7 +38,7 @@
 		"startIntroPart1": "Sample text.",
 		"startIntroPart2": "Sample text.",
 		
-		"declaringWar": "skedaddle you skallywag",
+		"declaringWar": "go on now git git",
 		"attacked": "y'all need to calm down",
 		"defeated": "Could'nt've you?",
 		"introduction": "greetings.",
@@ -51,10 +51,41 @@
 		"outerColor": [0,0,255],
 		"innerColor": [200,200,255],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Redneck Engineering",
+		"uniqueName": "Industrial Revolution",
 		"uniques": [
 			"[+1 Science] from all [Production] buildings",
 			"[25]% of excess happiness converted to [Production]",
+		],
+		"cities": ["aville","Big Butt City","food city","old york","Libertybell","salad","chrrhrhrr","Crispy Point","boulangerie"]
+	},
+	{
+		"name": "Soggy A-Looga",
+		"leaderName": "kh",
+		"adjective": ["soggy"],
+		"startBias": ["Floodplains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "the soggy revolution is coming.",
+		"startIntroPart2": "prepare your butts.",
+		
+		"declaringWar": "adios",
+		"attacked": "bruh chillax",
+		"defeated": "adios",
+		"introduction": "greetings.",
+		
+		"neutralHello": "hola.",
+		"hateHello": "What do you want?",
+		
+		"tradeRequest": "",
+
+		"outerColor": [0,0,255],
+		"innerColor": [200,200,255],
+		"favoredReligion": "Islam",
+		"uniqueName": "terrorism or something",
+		"uniques": [
+			"Rebel units may spawn",
+			"Cities are razed [2] times as fast",
+			"Cannot build [Armored] units"
 		],
 		"cities": ["aville","Big Butt City","food city","old york","Libertybell","salad","chrrhrhrr","Crispy Point","boulangerie"]
 	}
