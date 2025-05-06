@@ -78,7 +78,7 @@
 		
 		"tradeRequest": "",
 
-		"outerColor": [0,175,0],
+		"outerColor": [0,255,0],
 		"innerColor": [255,255,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "terrorism or something",
@@ -86,7 +86,8 @@
 			"Rebel units may spawn",
 			"Cities are razed [2] times as fast",
 			"Cannot build [Armor] units",
-			"Cannot build [Helicopter] units"
+			"Cannot build [Helicopter] units",
+			"When defeating a [Barbarian] unit, earn [1] Gold and recruit it <with [33]% chance>"
 		],
 		"cities": ["Riyahd","Jeddah","Mecca","Medina","Ta'if","Al-Ahsa","Dammam","kh"]
 	}
