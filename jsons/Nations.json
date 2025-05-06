@@ -10,7 +10,7 @@
 		"startIntroPart2": "A new dawn has risen on the alien planet. Once more, da alienz have an opportunity to shine through the ages of history. lorde gleepen, will you sieze this opportunity? Will you build an empire that can stand the test of time?",
 		
 		"declaringWar": "aight we ball",
-		"attacked": "Oh ho, you want to pick a fight, huh?",
+		"attacked": "Who are you to decide our fate?",
 		"defeated": "Our society has fallen once more. I suppose some things were never ment to be.",
 		"introduction": "(no-one will ever believe you)",
 		
@@ -23,7 +23,7 @@
 		"uniqueName": "ballin",
 		"uniques": [
 			"Starts with [Future Tech]",
-			"Reveals [Uranium] on the map"
+			"Starts with [Atomic Theory]"
 		],
 		"cities": ["new neebly city", "eebly dibble", "narcoghcey", "cerbal car area", "t'ofney", "Harrow Point", "Watney", "erher", "bajibble", "jug", "ahare", "big bub"]
 	},
