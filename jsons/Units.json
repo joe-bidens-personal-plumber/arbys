@@ -15,7 +15,7 @@
 		"attackSound": "phasers"
 	},	
 	{
-		"name": "Molten Slag Rifleman",
+		"name": "plasma launcher",
 		"unitType": "Gunpowder",
 		"uniqueTo": "da alienz",
 		"replaces": "Rifleman",
