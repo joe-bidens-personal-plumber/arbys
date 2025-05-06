@@ -69,7 +69,7 @@
 		"startIntroPart2": "prepare your butts.",
 		
 		"declaringWar": "adios",
-		"attacked": "bruh chillax",
+		"attacked": "adios",
 		"defeated": "adios",
 		"introduction": "greetings.",
 		
@@ -78,15 +78,16 @@
 		
 		"tradeRequest": "",
 
-		"outerColor": [0,0,255],
-		"innerColor": [200,200,255],
+		"outerColor": [255,255,0],
+		"innerColor": [0,175,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "terrorism or something",
 		"uniques": [
 			"Rebel units may spawn",
 			"Cities are razed [2] times as fast",
-			"Cannot build [Armored] units"
+			"Cannot build [Armor] units",
+			"Cannot build [Helicopter] units"
 		],
-		"cities": ["aville","Big Butt City","food city","old york","Libertybell","salad","chrrhrhrr","Crispy Point","boulangerie"]
+		"cities": ["Riyahd","Jeddah","Mecca","Medina","Ta'if","Al-Ahsa","Dammam","kh"]
 	}
 ]
