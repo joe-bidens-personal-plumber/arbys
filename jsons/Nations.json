@@ -3,7 +3,7 @@
 		"name": "da alienz",
 		"leaderName": "lorde gleepen",
 		"adjective": ["alien"],
-		"startBias": ["Grassland"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "da alienz were once an advanced species on their homeworld, the envy of the other habitable planets in their star system. In the year 1982 A.G. (After Gaming) an asteroid nearly twice the mass of Chixiclub was found hurtling towards their planet. As a final resort, they sent out an interstellar craft to settle the nearby star system before it was too late. Indeed, this asteroid caused an extinction that wiped out all complex life on their planet.",
@@ -62,7 +62,7 @@
 		"name": "Soggy A-Looga",
 		"leaderName": "kh",
 		"adjective": ["soggy"],
-		"startBias": ["Flood plains"],
+		"startBias": ["Desert", "Flood plains"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "the soggy revolution is coming.",
