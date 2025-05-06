@@ -62,7 +62,7 @@
 		"name": "Soggy A-Looga",
 		"leaderName": "kh",
 		"adjective": ["soggy"],
-		"startBias": ["Floodplains"],
+		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "the soggy revolution is coming.",
@@ -78,8 +78,8 @@
 		
 		"tradeRequest": "",
 
-		"outerColor": [255,255,0],
-		"innerColor": [0,175,0],
+		"outerColor": [0,175,0],
+		"innerColor": [255,255,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "terrorism or something",
 		"uniques": [
